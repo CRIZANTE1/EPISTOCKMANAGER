@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "hashed_admin_password",
+            "approved": true
+        }
+    ]
+}

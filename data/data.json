@@ -1,0 +1,604 @@
+[
+    {
+        "epi_name": "Luva Nitrílica DANNY (XG)",
+        "quantity": 144,
+        "type": "EPI",
+        "value": 88.0,
+        "CA": "28011"
+    },
+    {
+        "epi_name": "CAPUZ BALACLAVA TERMICO ",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 82.66,
+        "CA": "15307"
+    },
+    {
+        "epi_name": "LUVA COBERTURA VAQ/RASPA C/TIRA",
+        "quantity": 30,
+        "type": "EPI",
+        "value": 33.06,
+        "CA": "28088"
+    },
+    {
+        "epi_name": "Capacete de Seg. c/ Jugular (Amarelo ; MSA ; V-GARD ; NBR 8221) - COM LOGOMARCA FRONTAL\n- COM GRAVAÇÃO DA MARCA\n- REFERÊNCIA 101MJBR",
+        "quantity": 22,
+        "type": "EPI",
+        "value": 57.32,
+        "CA": "498"
+    },
+    {
+        "epi_name": "Capacete de Seg. c/ Jugular (Branco ; MSA ; V-GARD ; NBR 8221) - COM LOGOMARCA FRONTAL\n- COM GRAVAÇÃO DA MARCA\n- REFERÊNCIA 101MJBR",
+        "quantity": 10,
+        "type": "EPI",
+        "value": 57.32,
+        "CA": "498"
+    },
+    {
+        "epi_name": "Capacete de Seg. c/ Jugular (Verde ; MSA ; V-GARD ; NBR 8221) - COM LOGOMARCA FRONTAL\n- COM GRAVAÇÃO DA MARCA\n- REFERÊNCIA 101MJBR",
+        "quantity": 10,
+        "type": "EPI",
+        "value": 57.32,
+        "CA": "498"
+    },
+    {
+        "epi_name": "Capacete de Seg. c/ Jugular (Laranja ; MSA ; V-GARD ; NBR 8221) LOGOMARCA FRONTAL\n- COM GRAVAÇÃO DA MARCA\n- REFERÊNCIA 101MJBR",
+        "quantity": 8,
+        "type": "EPI",
+        "value": 57.32,
+        "CA": "498"
+    },
+    {
+        "epi_name": "Carneira para capacete V-GARD M.S.A. C/ Jugular\nModelo: Fas Trac III Marca: MSA\n- REFERÊNCIA 311799",
+        "quantity": 132,
+        "type": "EPI",
+        "value": 40.07,
+        "CA": "498"
+    },
+    {
+        "epi_name": "Cinto Paraquedista Hércules HL00201\nCom Extensor Dorsal para uso Específico para com trava-quedas retrátil Tamanho: Único - Ajustável\n- REFERÊNCIA HL00201",
+        "quantity": 44,
+        "type": "EPI",
+        "value": 197.42,
+        "CA": "35191"
+    },
+    {
+        "epi_name": "ÓCULOS DE SEGURANÇA 3M ",
+        "quantity": 132,
+        "type": "EPI",
+        "value": 53.17,
+        "CA": "39190"
+    },
+    {
+        "epi_name": "Óculos Seg. Ampla Visão (Modelo: 3M GG500) - Para uso com lente graduada\n- REFERÊNCIA GG500",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 116.0,
+        "CA": "37640"
+    },
+    {
+        "epi_name": "Óculos Seg. Ampla Visão (Modelo: UVEX) - Sem lente graduada Lente Incolor\n- REFERÊNCIA S3960HS",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 134.15,
+        "CA": "19072"
+    },
+    {
+        "epi_name": "Protetor Auricular Plug Silicone 3M Pomp Plus\n- REFERÊNCIA 1504PLUS",
+        "quantity": 22,
+        "type": "EPI",
+        "value": 4.2,
+        "CA": "5745"
+    },
+    {
+        "epi_name": "Protetor Auditivo (Abafador) Acoplavel Ao Capacete Marca MSA\nModelo: Mark V\n- REFERÊNCIA 297423",
+        "quantity": 22,
+        "type": "EPI",
+        "value": 134.27,
+        "CA": "28089"
+    },
+    {
+        "epi_name": "Luva de Vaqueta ; cano curto\nMarca: BUNZL EQUIPAMENTOS PARA PROTECAO INDIVIDUAL LTDA\nTamanho: Único\n- REFERÊNCIA 531P",
+        "quantity": 144,
+        "type": "EPI",
+        "value": 28.0,
+        "CA": "15061"
+    },
+    {
+        "epi_name": "Luva de Algodão Tricotada Pigmentada Cor: Preta - Marca: Volk do Brasil Proteção: Riscos mecânicos leves\n- REFERÊNCIA 21123 - MARCA KALIPSO\nTamanho: Único (9/G)",
+        "quantity": 10,
+        "type": "EPI",
+        "value": 4.2,
+        "CA": "28976"
+    },
+    {
+        "epi_name": "SÉRIE 6000 CARTUCHO CONTRA VAPORES",
+        "quantity": 88,
+        "type": "EPI",
+        "value": 45.87,
+        "CA": "12011"
+    },
+    {
+        "epi_name": "KIT ENSAIO VEDACAO P/MASCARA FT30",
+        "quantity": 1,
+        "type": "EPI",
+        "value": 2454.67,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Respirador Reutilizável Semifacial 3M Série 7500 7502 M Azul Médio\n- REFERÊNCIA 7502\nTamanho M",
+        "quantity": 44,
+        "type": "EPI",
+        "value": 269.81,
+        "CA": "12011"
+    },
+    {
+        "epi_name": "Respirador Reutilizável Semifacial 3M Série 7500 7503 G Azul Escuro\n- REFERÊNCIA 7503\nTamanho G",
+        "quantity": 44,
+        "type": "EPI",
+        "value": 269.81,
+        "CA": "12011"
+    },
+    {
+        "epi_name": "Botina com velcro e solado composite bidensidade Cor Preta\nMarca: MARLUVAS\n- REFERÊNCIA 70B22VCPAP\nNumeração: 40",
+        "quantity": 22,
+        "type": "EPI",
+        "value": 263.0,
+        "CA": "42587"
+    },
+    {
+        "epi_name": "Botina com velcro e solado composite bidensidade Cor Preta\nMarca: MARLUVAS\n- REFERÊNCIA 70B22VCPAP\nNumeração: 42",
+        "quantity": 22,
+        "type": "EPI",
+        "value": 263.0,
+        "CA": "42587"
+    },
+    {
+        "epi_name": "Líquido Anti-Embaçante 170 ML Vision Clear\nLíquido de limpeza para ser utilizado na limpeza das lentes de óculos de segurança.\nMarca: SILO\n- REFERÊNCIA 401LIQ",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 26.48,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Lenços de Limpeza CX com 500 peças\nPara ser utilizado na limpeza das lentes de óculos de segurança. Marca: UVEX\n- REFERÊNCIA S462",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 36.76,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Máscara cirúrgica descartável com elástico tripla proteção Caixa com 50 unds\nMarca: Phitta Mask\n- REFERÊNCIA 2505PH",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 30.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Cinto Alpinista Totalmente Ajustável 5 Pontos Marca Hércules - Modelo: HL005ACT Tamanho: Único - Ajustável\nModelo: HL005ACT\n- REFERÊNCIA HL005ACT",
+        "quantity": 6,
+        "type": "EPI",
+        "value": 849.93,
+        "CA": "39990"
+    },
+    {
+        "epi_name": "Luva Isolante de Borracha Alta Tensão Classe 0 Tipo II Marca: ORION\nTam 10\n- REFERÊNCIA 66105",
+        "quantity": 4,
+        "type": "EPI",
+        "value": 164.9,
+        "CA": "29773"
+    },
+    {
+        "epi_name": "Luva nitrílica descartável antiderrapante sem talco Marca: DANNY  SENSIFLEX PREMIUM AZUL\nDA-90.112 - Proteção para riscos químicos Tamanho: M (8)\n- REFERÊNCIA DA90112A",
+        "quantity": 60,
+        "type": "EPI",
+        "value": 180.25,
+        "CA": "42027"
+    },
+    {
+        "epi_name": "Luva nitrílica descartável antiderrapante sem talco Marca: DANNY  SENSIFLEX PREMIUM AZUL\nDA-90.112 - Proteção para riscos químicos Tamanho: G (9)\n- REFERÊNCIA DA90112A",
+        "quantity": 60,
+        "type": "EPI",
+        "value": 180.25,
+        "CA": "42027"
+    },
+    {
+        "epi_name": "Calçado de Segurança c/ Protetor de metatarso e antiperfuro Marca: SafetLine\nModelo: 4857ME-15/EL/HT/TPC\n* Permitido o uso por eletricistas\nTamanho nº 39",
+        "quantity": 6,
+        "type": "EPI",
+        "value": 433.42,
+        "CA": "40243"
+    },
+    {
+        "epi_name": "Calçado de Segurança c/ Protetor de metatarso e antiperfuro Marca: SafetLine\nModelo: 4857ME-15/EL/HT/TPC\n* Permitido o uso por eletricistas\nTamanho nº 40",
+        "quantity": 12,
+        "type": "EPI",
+        "value": 433.42,
+        "CA": "40243"
+    },
+    {
+        "epi_name": "Calçado de Segurança c/ Protetor de metatarso e antiperfuro Marca: SafetLine\nModelo: 4857ME-15/EL/HT/TPC\n* Permitido o uso por eletricistas\nTamanho nº 41",
+        "quantity": 22,
+        "type": "EPI",
+        "value": 433.42,
+        "CA": "40243"
+    },
+    {
+        "epi_name": "Calçado de Segurança c/ Protetor de metatarso e antiperfuro Marca: SafetLine\nModelo: 4857ME-15/EL/HT/TPC\n* Permitido o uso por eletricistas\nTamanho nº 43",
+        "quantity": 12,
+        "type": "EPI",
+        "value": 433.42,
+        "CA": "40243"
+    },
+    {
+        "epi_name": "Calçado de Segurança c/ Protetor de metatarso e antiperfuro Marca: SafetLine\nModelo: 4857ME-15/EL/HT/TPC\n* Permitido o uso por eletricistas\nTamanho nº 44",
+        "quantity": 6,
+        "type": "EPI",
+        "value": 433.42,
+        "CA": "40243"
+    },
+    {
+        "epi_name": "Calçado de Segurança c/ Protetor de metatarso e antiperfuro Marca: SafetLine\nModelo: 4857ME-15/EL/HT/TPC\n* Permitido o uso por eletricistas\nTamanho nº 45",
+        "quantity": 6,
+        "type": "EPI",
+        "value": 433.42,
+        "CA": "40243"
+    },
+    {
+        "epi_name": "MANGUEIRAS DE COMBATE A INCÊNDIO",
+        "quantity": 1,
+        "type": "Serviço",
+        "value": 4000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "EXTINTORES",
+        "quantity": 1,
+        "type": "Serviço",
+        "value": 4000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "CONJUNTO AUTÔNOMO",
+        "quantity": 6,
+        "type": "Serviço",
+        "value": 5000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "LÍQUIDO GERADOR DE ESPUMA",
+        "quantity": 1,
+        "type": "Serviço",
+        "value": 5000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "LÍQUIDO GERADOR DE ESPUMA",
+        "quantity": 1,
+        "type": "Serviço",
+        "value": 5000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "MEDIDOR DE MULTIGÁS",
+        "quantity": 6,
+        "type": "Serviço",
+        "value": 4000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Chave Storz",
+        "quantity": 23,
+        "type": "SCI",
+        "value": 17.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Derivante",
+        "quantity": 10,
+        "type": "SCI",
+        "value": 800.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Proporcionador de Espuma (ESGUICHO LANÇADOR DE ESPUMA)",
+        "quantity": 2,
+        "type": "SCI",
+        "value": 800.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "CANHÃO MONITOR PORTÁTIL",
+        "quantity": 1,
+        "type": "SCI",
+        "value": 3000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Redução Fixa Storz 2.1/2  X 1.1/2  Mangueira Hidrante Latão",
+        "quantity": 23,
+        "type": "SCI",
+        "value": 80.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Esguicho ",
+        "quantity": 12,
+        "type": "SCI",
+        "value": 200.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Esguicho ",
+        "quantity": 12,
+        "type": "SCI",
+        "value": 240.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Mangueira de incendio 1. 1/2 ",
+        "quantity": 5,
+        "type": "SCI",
+        "value": 4000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Liquido Gerador de Espuma de Baixa espanção",
+        "quantity": 1000,
+        "type": "SCI",
+        "value": 50.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Mangueira de incendio 2. 1/2",
+        "quantity": 5,
+        "type": "SCI",
+        "value": 4000.0,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Masculina PP",
+        "quantity": 10,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Masculina P",
+        "quantity": 10,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Masculina M",
+        "quantity": 50,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Masculina G",
+        "quantity": 111,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Masculina GG",
+        "quantity": 90,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Masculina XG",
+        "quantity": 22,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Feminina P",
+        "quantity": 6,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Feminina M",
+        "quantity": 12,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Operacional Feminina G",
+        "quantity": 6,
+        "type": "Uniforme",
+        "value": 205.84,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Masculina PP",
+        "quantity": 20,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Masculina P",
+        "quantity": 20,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Masculina M",
+        "quantity": 50,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Masculina G",
+        "quantity": 110,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Masculina GG",
+        "quantity": 90,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Masculina XG",
+        "quantity": 22,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Feminina P",
+        "quantity": 6,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Feminina M",
+        "quantity": 12,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Calça Operacional Feminina G",
+        "quantity": 6,
+        "type": "Uniforme",
+        "value": 181.8,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Japona Operacional Unissex P",
+        "quantity": 6,
+        "type": "Uniforme",
+        "value": 169.89,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Japona Operacional Unissex M",
+        "quantity": 22,
+        "type": "Uniforme",
+        "value": 169.89,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Japona Operacional Unissex G",
+        "quantity": 36,
+        "type": "Uniforme",
+        "value": 169.89,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Japona Operacional Unissex GG",
+        "quantity": 28,
+        "type": "Uniforme",
+        "value": 169.89,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Japona Operacional Unissex XG",
+        "quantity": 6,
+        "type": "Uniforme",
+        "value": 169.89,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Polo Administrativa Unissex (Verde) P",
+        "quantity": 20,
+        "type": "Uniforme",
+        "value": 79.38,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Polo Administrativa Unissex (Verde) M",
+        "quantity": 50,
+        "type": "Uniforme",
+        "value": 79.38,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Polo Administrativa Unissex (Verde) G",
+        "quantity": 82,
+        "type": "Uniforme",
+        "value": 79.38,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Polo Administrativa Unissex (Verde) GG",
+        "quantity": 43,
+        "type": "Uniforme",
+        "value": 79.38,
+        "CA": "0"
+    },
+    {
+        "epi_name": "Camisa Polo Administrativa Unissex (Verde) XG",
+        "quantity": 12,
+        "type": "Uniforme",
+        "value": 79.38,
+        "CA": "0"
+    },
+    {
+        "epi_name": "LUVA CORTE TAM 9, BANHO NIT FIBRA VIDRO EN388 4432C ANSELL ALPHATEC 58-735 MARCA:ANSELL",
+        "quantity": 144,
+        "type": "EPI",
+        "value": 88.0,
+        "CA": "43226"
+    },
+    {
+        "epi_name": "CONJUNTO IMPERMEÁVEL NYLON EMBORRACHADO ",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 250.0,
+        "CA": "28742.0"
+    },
+    {
+        "epi_name": "MASSAGEM SIPAT - NR 05",
+        "quantity": 1,
+        "type": "Serviço",
+        "value": 5000.0,
+        "CA": "0.0"
+    },
+    {
+        "epi_name": "OCULOS SOBREP LT INC AR NETUNO DA15700IN",
+        "quantity": 66,
+        "type": "EPI",
+        "value": 8.0,
+        "CA": "16462.0"
+    },
+    {
+        "epi_name": "ALIMENTAÇÃO PARA SIPAT - NR05",
+        "quantity": 5,
+        "type": "Serviço",
+        "value": 2000.0,
+        "CA": "0.0"
+    },
+    {
+        "epi_name": "CIPA MAPA DE RISCO - NR 05 ",
+        "quantity": 4,
+        "type": "Serviço",
+        "value": 1500.0,
+        "CA": 0.0
+    },
+    {
+        "epi_name": "BANNER SIPAT - NR 05 ",
+        "quantity": 2,
+        "type": "Serviço",
+        "value": 1500.0,
+        "CA": 0.0
+    }
+]
